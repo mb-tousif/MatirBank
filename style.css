@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#depositAmt{
+    background-color: rgb(63, 101, 216);
+    text-align: center;
+}
+#withdrawInput{
+    background-color: rgb(63, 101, 216);
+    text-align: center;
+}
+body{
+    background-color: #cffafe;
+}
+footer{
+    background-color: #a855f7;
+}
